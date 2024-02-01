@@ -4,7 +4,11 @@ Description
 -------------
 
 <p>
-This project shows how to use checkbox with jetpack compose. I explain it in my video: https://youtu.be/H52pxaV3VG0?si=X5CN3tUBVlPNmUhf <p>
+This project shows how to use checkbox with jetpack compose. 
+  
+I explain it in my [youtube video](https://youtu.be/H52pxaV3VG0?si=X5CN3tUBVlPNmUhf).<p>
+
+
 
 ## Images from the Project
 
